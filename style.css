@@ -1,0 +1,13 @@
+.divider{
+  border-top: #CCC 1px solid;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.navbar-static-top{
+  border-radius: 0px;
+}
+
+.custom-margin-left{
+  margin-left: 30px;
+}
